@@ -1,43 +1,89 @@
-<div align="center">  
-  <h1>👋 Hi! I'm Celia Garrido Herrera</h1>  
-</div>  
+<h1 align="center">¡Hola! 👋 Soy Celia Garrido Herrera</h1>
 
-<div align="center">  
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611dnqfk9joob0o3e4af0mz3dll4io1s8hmfc3joiyj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding gif" width="300"/>  
-</div>  
+<p align="center">
+  💻 Desarrolladora Full Stack | 🛠️ Especializándome en Salesforce Developer | 🚀 Apasionada por la tecnología y los proyectos con impacto real
+</p>
 
 ---
 
-## 🚀 About Me  
-- 📚 I’m a student, training to become a FullStack Web Developer at **FactoriaF5**.  
-- 🛠️ Currently learning **HTML**, **CSS**, and **JavaScript**.  
-- 🌱 **Next step:** Explore FullStack technologies to build complete and impactful applications.  
-- 💡 Passionate about problem-solving, learning new technologies, and creating useful projects.  
+## 🙋‍♀️ Sobre mí
+
+Soy desarrolladora **Full Stack** formada en **Factoria F5**, donde he trabajado con metodologías ágiles en proyectos reales y colaborativos. Actualmente, me estoy especializando como **Salesforce Developer**, ampliando mis capacidades hacia soluciones CRM escalables y empresariales.
+
+Me encanta el código limpio, la colaboración en equipo, y construir soluciones funcionales de principio a fin, desde la base de datos hasta el diseño responsive en el navegador.
 
 ---
 
-## 🛠️ Technologies I'm Working With  
-<div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-</div>  
+## 🛠️ Tecnologías que domino
+
+### 👩‍🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material UI"/>
+</p>
+
+### 🧩 Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot"/>
+</p>
+
+- Java 21, Spring Boot & Spring Security  
+- JPA / Hibernate  
+- Autenticación con JWT  
+- Gestión local de imágenes  
+
+### 🗄️ Base de datos
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+</p>
+
+- H2 en memoria  
+- MySQL básico  
+
+### 🧪 Testing & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ"/>
+</p>
+
+- GitHub, Git Flow  
+- Postman  
+- Jira (Scrum)  
+- JUnit, TDD (con cobertura mínima del 70%)  
 
 ---
 
-## 📬 Connect with Me  
-<div align="center">  
-  <p>Feel free to reach out! Let’s connect and share ideas:</p>  
-  <a href="https://www.linkedin.com/in/celia-garrido-herrera-343118327" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
-  </a>  
-  <br/>  
-  📧 <a href="mailto:celiagarridoherrera@gmail.com">celiagarridoherrera@gmail.com</a>  
-</div>  
+## ☁️ En proceso: Salesforce Developer
 
+Estoy siguiendo el itinerario oficial de Trailhead, aprendiendo:
+
+- 🧠 **Apex** & SOQL  
+- ⚡ **Lightning Web Components (LWC)**  
+- 🔁 Automatizaciones declarativas y programáticas  
+- 🔌 **Salesforce APIs & CRM Architecture**
+
+Me entusiasma unir mi experiencia Full Stack con el ecosistema Salesforce para aportar soluciones empresariales robustas y centradas en el cliente.
 
 ---
 
-<div align="center">  
-  <p>🌟 Thanks for visiting my profile! Let’s code and grow together! 🚀</p>  
-</div>  
+## 📫 ¿Hablamos?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/celia-garrido-herrera-343118327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/celiagarridoherrera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
